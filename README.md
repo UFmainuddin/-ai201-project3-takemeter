@@ -5,7 +5,7 @@ Built for CodePath AI201 Project 3.
 
 ## Demo Video
 
-[Watch the demo video on Google Drive](https://drive.google.com/file/d/1mZz0D2oDhMRXxVn_uTUlANYayAk6fHpI/view?usp=sharing)
+[Watch the demo video on Google Drive](https://drive.google.com/file/d/1Zc5pOW_MD8p1OmrhJA_SRiqMXuiTlGSF/view?usp=sharing)
 
 ---
 
